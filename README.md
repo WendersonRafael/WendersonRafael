@@ -27,9 +27,8 @@
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=Python&logoColor=007ACC)&nbsp;
 
 ### Tools & Softwares used:
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=flat-square&logo=visual-studio&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=flat-square&logo=Windows&logoColor=FCC624)
 
 <div align="center">
