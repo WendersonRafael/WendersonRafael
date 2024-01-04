@@ -19,19 +19,18 @@
  </div>
  
  ### Main skills:
-![C](https://img.shields.io/badge/-C-4169E1?style=for-the-badge&logo=C&labelColor=0D1117)&nbsp;
-![C++](https://img.shields.io/badge/-C++-4169E1?style=for-the-badge&logo=Cplusplus&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-CSharp-4169E1?style=for-the-badge&logo=CSharp&labelColor=0D1117)&nbsp;
-
+![C](https://img.shields.io/badge/C-0D1117?style=flat-square&logo=C&logoColor=007ACC)&nbsp;
+![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=Cplusplus&logoColor=007ACC)&nbsp;
+![C#](https://img.shields.io/badge/-CSharp-0D1117?style=flat-square&logo=CSharp&logoColor=007ACC)&nbsp;
 
 ### Studying in this moment:
-![Python](https://img.shields.io/badge/-Python-4169E1?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=Python&logoColor=007ACC)&nbsp;
 
 ### Tools & Softwares used:
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-4169E1?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-4169E1?style=flat-square&logo=visual-studio&logoColor=007ACC)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-4169E1?style=flat-square&logo=Windows&logoColor=FCC624)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=flat-square&logo=visual-studio&logoColor=007ACC)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=flat-square&logo=Windows&logoColor=FCC624)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
