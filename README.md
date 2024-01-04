@@ -29,8 +29,8 @@
 
 ### Tools & Softwares used:
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-050806?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-050806?style=flat-square&logo=Windows&logoColor=FCC624)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-4169E1?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-4169E1?style=flat-square&logo=Windows&logoColor=FCC624)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
