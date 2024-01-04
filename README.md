@@ -27,6 +27,11 @@
 ### Studying in this moment:
 ![Python](https://img.shields.io/badge/-Python-4169E1?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 
+### Tools & Softwares used:
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-050806?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-050806?style=flat-square&logo=Windows&logoColor=FCC624)
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{WendersonRafael}/count.svg" /></p> 
