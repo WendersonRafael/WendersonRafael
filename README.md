@@ -37,3 +37,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=4169E1&width=435&lines=Please+stand+by...;I+will+get+my+coffee." alt="Typing SVG" /></a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
+
+![snake gif](https://github.com/WendersonRafael/WendersonRafael/blob/output/github-contribution-grid-snake.svg)
