@@ -12,9 +12,9 @@
 
 
 <div align="center"> 
-<a href="https://instagram.com/_wendersonrafael_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%234169E1?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://instagram.com/wendersonrafael10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%234169E1?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.youtube.com/channel/UCAspHQsrLMt-gbOeRfV6Jpg" target="_blank"><img src="https://img.shields.io/badge/YouTube-4169E1?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href = "mailto:cmp.1a.welabsteam@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-4169E1?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:cmp.1a.wenderson1996rlb@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-4169E1?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://welabs.tech" target="_blank"><img src="https://img.shields.io/badge/site-4169E1?style=for-the-badge&logo=browser&logoColor=white" target="_blank"></a>
 
  </div>
